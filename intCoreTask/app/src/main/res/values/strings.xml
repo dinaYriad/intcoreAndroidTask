@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">intCoreTask</string>
+    <string name="sign_in">Sign in</string>
+    <string name="name">Name</string>
+    <string name="password">password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_page">Sign up page:</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="sign_out">sign out</string>
+    <string name="textview">TextView</string>
+    <string name="sign_in_page">Sign in page:</string>
+    <string name="profile">Profile</string>
+</resources>
